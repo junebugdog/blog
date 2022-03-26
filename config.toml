@@ -55,10 +55,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles
-  reward = true
+  reward = false
   # reward_guide = "如果这篇文章对你有用,请随意打赏"
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -75,7 +75,7 @@ home = ["HTML", "RSS", "Algolia"]
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
+  github         = "https://github.com/junebugdog"
   #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
